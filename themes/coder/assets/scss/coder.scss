@@ -17,14 +17,25 @@
 @import "mastodon";
 @import "syntax";
 
+// .home-center-image {
+//     display: flex;
+//     justify-content: center;
+//     align-items: center;
+//     min-height: 70vh; // header + footer 제외 영역
+//     img {
+//       max-width: 100%;
+//       height: auto;
+//     }
+//   }
+  
 .home-center-image {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 70vh; // header + footer 제외 영역
+    height: calc(100vh - 160px); // 헤더+푸터 제외 대략적 높이
     img {
-      max-width: 100%;
+      max-height: 300px;
+      max-width: 90%;
       height: auto;
     }
   }
-  

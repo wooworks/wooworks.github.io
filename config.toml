@@ -7,6 +7,7 @@ theme = 'coder'
   description = "wooworks.io"
   author = "wooworks"
   keywords = ["wooworks", "blog"]
+  hideColorSchemeToggle = true
 
 [menu]
   [[menu.main]]
@@ -28,4 +29,3 @@ theme = 'coder'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
