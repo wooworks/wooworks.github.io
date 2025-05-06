@@ -16,3 +16,15 @@
 @import "float";
 @import "mastodon";
 @import "syntax";
+
+.home-center-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 70vh; // header + footer 제외 영역
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+  
