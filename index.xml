@@ -1,39 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>wooworks.io</title><link>https://wooworks.github.io/</link><description>Recent content on wooworks.io</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://wooworks.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>project</title><link>https://wooworks.github.io/project/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>https://wooworks.github.io/project/</guid><description>&lt;h2 id="somoon">
- Somoon
- &lt;a class="heading-link" href="#somoon">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;p>리퍼럴 마케팅 커뮤니티
-&lt;a href="https://somoon.io" class="external-link" target="_blank" rel="noopener">Somoon&lt;/a>&lt;/p>
-&lt;h2 id="lastnote">
- Lastnote
- &lt;a class="heading-link" href="#lastnote">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;p>오늘이 인생의 마지막 날이라면, 어떤 말을 남기실 건가요.
-&lt;a href="https://lastnote.xyz" class="external-link" target="_blank" rel="noopener">Lastnote&lt;/a>&lt;/p>
-&lt;h2 id="whatsub">
- Whatsub
- &lt;a class="heading-link" href="#whatsub">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;p>심플한 정기 구독 관리
-&lt;a href="https://whatsub.xyz" class="external-link" target="_blank" rel="noopener">Whatsub&lt;/a>&lt;/p>
-&lt;h2 id="feedflow">
- Feedflow
- &lt;a class="heading-link" href="#feedflow">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;p>인디메이커를 위한 부담없는 피드백 수집툴
-&lt;a href="https://feedflow.co" class="external-link" target="_blank" rel="noopener">Feedflow&lt;/a>&lt;/p></description></item><item><title>about</title><link>https://wooworks.github.io/about/</link><pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate><guid>https://wooworks.github.io/about/</guid><description>&lt;p>&lt;img src="https://wooworks.github.io/images/fin.jpeg" alt="">&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>wooworks.io</title><link>https://wooworks.github.io/</link><description>Recent content on wooworks.io</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://wooworks.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>project</title><link>https://wooworks.github.io/project/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>https://wooworks.github.io/project/</guid><description>&lt;p>&lt;strong>Somoon&lt;/strong> 리퍼럴 마케팅 커뮤니티 &lt;a href="https://somoon.io" class="external-link" target="_blank" rel="noopener">Somoon&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Lastnote&lt;/strong> 오늘이 인생의 마지막 날이라면, 어떤 말을 남기실 건가요. &lt;a href="https://lastnote.xyz" class="external-link" target="_blank" rel="noopener">Lastnote&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Whatsub&lt;/strong> 심플한 정기 구독 관리 &lt;a href="https://whatsub.xyz" class="external-link" target="_blank" rel="noopener">Whatsub&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Feedflow&lt;/strong> 인디메이커를 위한 부담없는 피드백 수집툴 &lt;a href="https://feedflow.co" class="external-link" target="_blank" rel="noopener">Feedflow&lt;/a>&lt;/p></description></item><item><title>about</title><link>https://wooworks.github.io/about/</link><pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate><guid>https://wooworks.github.io/about/</guid><description>&lt;p>&lt;img src="https://wooworks.github.io/images/fin.jpeg" alt="">&lt;/p>
 &lt;p>안녕하세요,
 작업중인 프로젝트들과 평소 생각들을 기록하고 있습니다.&lt;/p>
 &lt;p>인디메이커로서의 삶과 관찰, 짧은 생각들은 Threads에 모아두고 있어요.&lt;br>
