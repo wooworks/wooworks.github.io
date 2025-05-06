@@ -2,7 +2,8 @@
   <section class="container">
     {{ with .Site }}
     <a class="navigation-title" href="{{ absLangURL "" }}">
-      <img src="/images/wooworks_home.jpg" alt="wooworks logo" style="height: 24px;" />
+      <!-- {{ .Site.Title }} -->
+      <img src="/images/wooworks_logo.png" alt="wooworks logo" style="height: 24px;" />
     </a>
     {{ end }}
     {{ if or .Site.Menus.main hugo.IsMultilingual }}
