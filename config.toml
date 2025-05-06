@@ -16,7 +16,7 @@ theme = 'coder'
 
   [[menu.main]]
     name = "project"
-    url = "/tags/project/"
+    url = "/project/"
     weight = 2 
 
   [[menu.main]]
