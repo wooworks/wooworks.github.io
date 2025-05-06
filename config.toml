@@ -1,0 +1,31 @@
+baseURL = 'https://wooworks.github.io/'
+languageCode = 'en-us'
+title = 'wooworks.io'
+theme = 'coder'
+
+[params]
+  description = "wooworks.io"
+  author = "wooworks"
+  keywords = ["wooworks", "blog"]
+
+[menu]
+  [[menu.main]]
+    name = "about"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    name = "project"
+    url = "/tags/project/"
+    weight = 2 
+
+  [[menu.main]]
+    name = "note"
+    url = "/posts/"
+    weight = 3
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
