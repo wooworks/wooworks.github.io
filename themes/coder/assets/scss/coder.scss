@@ -17,25 +17,22 @@
 @import "mastodon";
 @import "syntax";
 
-// .home-center-image {
-//     display: flex;
-//     justify-content: center;
-//     align-items: center;
-//     min-height: 70vh; // header + footer 제외 영역
-//     img {
-//       max-width: 100%;
-//       height: auto;
-//     }
-//   }
-  
-.home-center-image {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: calc(100vh - 160px); // 헤더+푸터 제외 대략적 높이
-    img {
-      max-height: 300px;
-      max-width: 90%;
-      height: auto;
-    }
+
+
+.home-content {
+  flex: 1;  // wrapper 내에서 남는 공간 차지
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .home-center-image img {
+    max-height: 70vh;   // 더 크게
+    max-width: 80vw;
+    width: auto;
+    height: auto;
+  }
+}
+
+  .external-link::after {
+    content: none !important;
   }

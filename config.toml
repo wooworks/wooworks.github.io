@@ -1,5 +1,6 @@
 baseURL = 'https://wooworks.github.io/'
-languageCode = 'en-us'
+languageCode = 'ko'
+defaultContentLanguage = 'ko'
 title = 'wooworks.io'
 theme = 'coder'
 
