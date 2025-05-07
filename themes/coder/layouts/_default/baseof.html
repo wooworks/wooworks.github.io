@@ -4,6 +4,18 @@
 <head>
   <title>{{ block "title" . }}{{ .Site.Params.HeadTitle | default .Site.Title }}{{ end }}</title>
   {{ partial "head.html" . }}
+  ...
+  {{ template "_internal/google_analytics.html" . }}
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-0PHMKQGDL8"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-0PHMKQGDL8');
+  </script>
+  <!-- End Google Analytics -->
+...
 </head>
 
 {{ $csClass := "colorscheme-light" }}

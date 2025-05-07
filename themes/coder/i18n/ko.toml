@@ -15,7 +15,7 @@ one = "저자"
 other = "authors"
 
 [posts]
-other = "포스트"
+other = "posts"
 
 [reading_time]
 one = "읽는데 1분"
