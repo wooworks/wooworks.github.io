@@ -1,7 +1,7 @@
 <nav class="navigation">
   <section class="container">
-    <a class="navigation-title" href="{{ absLangURL "" }}">
-      <img src="/images/wooworks_logo.png" alt="wooworks logo" style="height: 28px;" />
+    <a class="navigation-title" href="{{ "/" | relLangURL }}">
+      <img src="/images/wooworks_logo.png" alt="wooworks logo" style="height: 30px;" />
     </a>
 
     {{ if or .Site.Menus.main hugo.IsMultilingual }}
