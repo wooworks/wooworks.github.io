@@ -30,7 +30,14 @@ Ye는 부서진 얼굴에 철심을 박은채로, 랩을 했다. 불길을 뚫�
 
 아직은 돈이 충분치 않아서 주변의 도움으로 홈비디오같은 뮤직비디오도 간신히 찍었다. 무엇보다 음악을 들고 이곳 저곳을 직접 다니면서 들려주고 홍보하기를 주저하지 않았다. 자신의 의지가 강하고 그만큼 절박하니 가릴게 뭐 있었을까.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cGkcF7bHko4" frameborder="0" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe 
+    src="https://www.youtube.com/embed/cGkcF7bHko4" 
+    frameborder="0" 
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
 애써서 프로덕트를 만든 후 사람들이 나를 찾아와 알아봐 주기를 바랐던, 오만한 내가 떠올랐다. 어쩌면 나는 오만한 게 아니라, 사람들이 뭐라고 얘기할지 겁이 난 거다. 내가 너무 만들고 싶어서 만든 것과 '나'라는 존재는 동일시하면 안 된다는 걸 머리로는 이해해도 마음은 괴로웠다. 내가 만든 것과 나의 존재는 분리해야 사람들에게 어떻게든 보여주고, 이야기를 듣고 평가도 받는다. 그렇게 해야 다음이 있다.
 
@@ -43,6 +50,12 @@ Pharrell과의 이 장면이 대단한 기회로 바로 연결되진 않는다. 
 
 물론 Ye의 음악 외적 기행(?)에 대해선 의견이 분분하고 비난받을 여지도 많다. 하지만 그 사람의 음악을 향한 절박함과 진심에는 그 누가 돌을 던지랴. 저런 날것의 절박함이 노래와 영상으로 남아, 20년 뒤의 누군가에게 영감을 주고 있으니 너무 다행이다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/siX2LhaPvMc" frameborder="0" allowfullscreen></iframe>
-
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe 
+    src="https://www.youtube.com/embed/siX2LhaPvMc" 
+    frameborder="0" 
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
