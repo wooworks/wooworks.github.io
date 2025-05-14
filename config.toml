@@ -1,7 +1,7 @@
 baseURL = 'https://wooworks.github.io/'
 languageCode = 'en-us'
 defaultContentLanguage = 'ko'
-title = 'wooworks.io'
+title = 'wooworks'
 theme = 'coder'
 
 [params]
@@ -9,8 +9,11 @@ theme = 'coder'
   author = "wooworks"
   keywords = ["wooworks", "blog", "인디메이커", "인디해커"]
   hideColorSchemeToggle = true
-  title = "wooworks"
   images = ["/images/wooworks_opengraph.png"] # Open Graph 이미지 경로
+  faviconSVG = "/images/wooworks-favicon-32.svg"
+  favicon_32 = "/images/wooworks-favicon-32.png"
+  favicon_16 = "/images/wooworks-favicon-16.png"
+  touchicon  = "/images/my-touch-icon.png"
 
 [menu]
   [[menu.main]]
@@ -32,9 +35,3 @@ theme = 'coder'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
-[params]
-  faviconSVG = "/images/wooworks-favicon-32.svg"
-  favicon_32 = "/images/wooworks-favicon-32.png"
-  favicon_16 = "/images/wooworks-favicon-16.png"
-  touchicon  = "/images/my-touch-icon.png"

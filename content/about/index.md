@@ -4,7 +4,6 @@ description = "wooworks: 스스로 만들고, 실험하며, 함께 성장하고 
 date = "2025-04-21"
 aliases = ["wooworks"]
 author = "woo"
-aliases = []
 +++
 
 작업중인 일과 평소 생각들을 기록합니다.
