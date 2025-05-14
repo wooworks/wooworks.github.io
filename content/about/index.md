@@ -3,6 +3,7 @@ title = "about"
 description = "wooworks: 스스로 만들고, 실험하며, 함께 성장하고 싶은 인디메이커의 기록 공간입니다."
 date = "2025-04-21"
 aliases = ["wooworks"]
+images = ["/images/fin.jpeg"]
 author = "woo"
 +++
 

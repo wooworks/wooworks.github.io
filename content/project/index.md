@@ -3,6 +3,7 @@ title = "project"
 description = "wooworks의 프로젝트 이야기"
 date = "2025-05-01"
 aliases = []
+images = ["/images/wooworks_opengraph.png"]
 author = "woo"
 +++
 
