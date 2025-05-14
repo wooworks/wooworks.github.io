@@ -4,6 +4,7 @@ date = 2024-11-19
 title = "AI로 가능하지 않은 것"
 description = "AI를 활용한다는 것의 핵심은 결국 '무엇을 원하는가'에 있는데, 이 욕망이라는 것은 오랜 시간 쌓여온 지식과 자신만의 경험, 감정에 기반한다."
 slug = "things-that-ai-cannot-do"
+images = ["/images/wooworks-ai.jpg"]
 authors = ["woo"]
 tags= []
 categories= ["note"]

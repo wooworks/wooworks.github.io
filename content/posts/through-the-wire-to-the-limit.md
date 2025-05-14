@@ -4,6 +4,7 @@ date = 2023-06-13
 title = "Through the wire, to the limit"
 description = "Ye는 부서진 얼굴에 철심을 박은채로, 자기 심경을 랩으로 얹었다. 너무 원하면, 기회는 온다. 단 원하는 만큼 절박하게 구해야 한다."
 slug = "through-the-wire-to-the-limit"
+images = ["/images/music.png"]
 authors = ["woo"]
 tags= []
 categories= ["note"]
